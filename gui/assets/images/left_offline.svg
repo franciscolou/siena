@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
+ <defs>
+  <symbol class="w-6 h-6 text-gray-800 dark:text-white" height="24" id="svg_4" width="24" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+   <g class="layer">
+    <title>Layer 1</title>
+    <rect fill="#ffffff" height="2.69" id="svg_3" transform="matrix(1 0 0 1 0 0)" width="19" x="2.53" y="10.63"/>
+    <path clip-rule="evenodd" d="m2,12c0,-5.52 4.48,-10 10,-10s10,4.48 10,10s-4.48,10 -10,10s-10,-4.48 -10,-10zm5.76,-1a1,1 0 1 0 0,2l8.48,0a1,1 0 1 0 0,-2l-8.48,0z" fill="#d11717" fill-rule="evenodd" id="svg_2"/>
+   </g>
+  </symbol>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m377.9,105.9l122.8,122.8c7.2,7.2 11.3,17.1 11.3,27.3s-4.1,20.1 -11.3,27.3l-122.8,122.8c-6.4,6.4 -15,9.9 -24,9.9c-18.7,0 -33.9,-15.2 -33.9,-33.9l0,-62.1l-128,0c-17.7,0 -32,-14.3 -32,-32l0,-64c0,-17.7 14.3,-32 32,-32l128,0l0,-62.1c0,-18.7 15.2,-33.9 33.9,-33.9c9,0 17.6,3.6 24,9.9zm-217.9,-9.9l-64,0c-17.7,0 -32,14.3 -32,32l0,256c0,17.7 14.3,32 32,32l64,0c17.7,0 32,14.3 32,32s-14.3,32 -32,32l-64,0c-53,0 -96,-43 -96,-96l0,-256c0,-53 43,-96 96,-96l64,0c17.7,0 32,14.3 32,32s-14.3,32 -32,32z" fill="#c90000" id="svg_1"/>
+  <use id="svg_5" stroke="#ffffff" transform="matrix(7.11111 0 0 7.11111 0 0)" x="46.27" xlink:href="#svg_4" y="34.59"/>
+ </g>
+</svg>

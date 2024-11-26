@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m256,512a256,256 0 1 0 0,-512a256,256 0 1 0 0,512z" fill="#26c11b" id="svg_1"/>
+ </g>
+</svg>
